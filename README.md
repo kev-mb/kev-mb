@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... not sure yet...  
 - 📫 How to reach me ... 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I can throw a mean spiral 
+- 🏈 Fun fact: I can throw a mean spiral 
 
 <!---
 kev-mb/kev-mb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
