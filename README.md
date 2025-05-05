@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Kevin but you can call me Chili Dog
-- 👀 I’m interested in giving hope to everyone 
-- 🌱 I’m currently learning GitHub, Python, and Arduino 
-- 💞️ I’m looking to collaborate on ... not sure yet...  
-- 📫 How to reach me ... 
+- 👋 Hi, I’m Kevin 
+- 👀 I’m interested in hope
+- 🌱 I’m currently learning Robotics, Remote Access, and Python
+- 💞️ I’m looking to collaborate on ... not sure
+- 📫 How to reach me ... kevinmb78@gmail.com                  
 - 😄 Pronouns: He/Him/His
-- 🏈 Fun fact: I can throw a mean spiral 
+- 🏈 Fun fact: I love throwing the football
 
 <!---
 kev-mb/kev-mb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
