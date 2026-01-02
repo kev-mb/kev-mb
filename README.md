@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin 
 - 👀 I’m interested in hope
 - 🌱 I’m currently learning Robotics, Remote Access, and Python
-- 💞️ I’m looking to collaborate on ... not sure
+- 💞️ I’m looking to collaborate on ... robotics
 - 📫 How to reach me ... kevinmb78@gmail.com                  
 - 😄 Pronouns: He/Him/His
 - 🏈 Fun fact: I love throwing the football
